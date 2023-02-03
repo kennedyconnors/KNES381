@@ -7,7 +7,6 @@
   <img align="right" width="200" src="https://www.rd.com/wp-content/uploads/2018/02/25_Hilarious-Photos-that-Will-Get-You-Through-the-Week_280228817_Doty911.jpg" />
 
 
-<p style="color:red;">We have discovered the average VO2 of the llama and want to tell you more about it!</p>
+<p style="color:red;">We have discovered the average VO2 of the llama and want to tell you more about it! <br> click the button to find out more</p>
 
-
-
+<a href="https://github.com/kennedyconnors/KNES381#readme">Are llamas fast?</a>
