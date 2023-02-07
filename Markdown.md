@@ -11,4 +11,5 @@ $${\color{magenta}We\space have\space discovered\space the\space average}$$<p st
 
 <a href="https://github.com/kennedyconnors/KNES381#readme">Are llamas fast?</a>
 
-[a secret hyperlink](https://github.com/user/repo/blob/branch/other_file.md)
+[a secret 
+hyperlink](https://github.com/kennedyconnors/KNES381/blob/main/subfolder/d9dt5u6-83368cce-cbc2-4fd6-94fc-1be1a671aa42.png)
