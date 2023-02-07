@@ -10,3 +10,5 @@
 $${\color{magenta}We\space have\space discovered\space the\space average}$$<p style="color:red;">V&#769;O&#8322; of the llama and want to tell you more about it! <br> click the button to find out more</p>
 
 <a href="https://github.com/kennedyconnors/KNES381#readme">Are llamas fast?</a>
+
+[a secret hyperlink](https://github.com/user/repo/blob/branch/other_file.md)
