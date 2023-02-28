@@ -84,4 +84,3 @@ def play_game():
 
 # play the game
 play_game()
-# KNES381lab
